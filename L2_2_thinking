@@ -1,4 +1,9 @@
 Thinking1：MVC框架指的是什么
-
+答：MVC是一种设计创建 Web 应用程序的模式。
+    M-Model，是应用程序中用于处理应用程序数据逻辑的部分，与数据库相关的模型层，是程序应用的核心；
+    V-Views，是应用程序中处理数据显示的部分，如web网址以及渲染网页等；
+    C-Controller，是应用程序中处理用户交互的部分，如读取数据、控制用户输入、调用业务逻辑等。
 
 Thinking2：基于Python的可视化技术都有哪些，你使用过哪些
+答：常见的可视化技术有matplotlib，seaborn，pyecharts，plotly等，还有pandas自带可视化功能，上述技术都尝试过，比较常用的就是matplotlib和seaborn。
+    此外还听说过ggplot，bekoh等。
